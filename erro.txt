@@ -1,0 +1,6 @@
+PHP Fatal error:  Uncaught FFI\Exception: Failed loading 'phar:///tmp/phar-ffi/ffi.phar./sum.so' in phar:///tmp/phar-ffi/ffi.phar/ffi.php:3
+Stack trace:
+#0 phar:///tmp/phar-ffi/ffi.phar/ffi.php(3): FFI::cdef()
+#1 /tmp/phar-ffi/ffi.phar(12): require('...')
+#2 {main}
+  thrown in phar:///tmp/phar-ffi/ffi.phar/ffi.php on line 3

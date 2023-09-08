@@ -1,0 +1,4 @@
+{
+    "main": "ffi.php",
+    "files-bin": ["sum.so"]
+}
